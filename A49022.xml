@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The laws of the market</title>
+            <author>City of London (England).</author>
+         </titleStmt>
+         <extent>Approx. 15KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49022</idno><idno type="EEBO-CITATION">18372192</idno>
+  <idno type="VID">107438</idno>
+  <idno type="EEBO-PROQUEST">2240900358</idno>
+  
+            <idno type="STC">Wing L2861N</idno>
+            <idno type="STC">ESTC R39365</idno>
+            <idno type="OCLC">18372192</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A49022)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 107438)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1637:54)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The laws of the market</title>
+                  <author>City of London (England).</author>
+               </titleStmt>
+               <extent>[20] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by James Flesher ...,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1668.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Guildhall, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Markets --  Law and legislation --  England --  London.</term>
+               <term type="geographic_name">London (England) --  History --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:107438:1"/>
+            <pb facs="tcp:107438:1"/>
+            <p>THE LAWS OF THE MARKET.</p>
+            <figure>
+               <figDesc>arms of London</figDesc>
+            </figure>
+            <p>Printed by <hi>James Flesher,</hi> Prin<g ref="char:EOLhyphen"/>ter to the Honourable City of <hi>LONDON,</hi> 1668.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:107438:2"/>
+            <pb facs="tcp:107438:2"/>
+            <head>The LAWS of the MARKET.</head>
+            <p>FIrst, in all the Markets of this City, no Victual shall be sold, but by the Price set by the Mayor of this City.</p>
+            <p n="2">2 No man shall fore-shall any Vi<g ref="char:EOLhyphen"/>ctual coming to the Market, as for to buy in any Inne or other pri<g ref="char:EOLhyphen"/>vy place, or yet coming to the Market, whether it be found in the hands of the Buier or of the Seller, under pein of forfeiture of the same: and no Inn-holder shall suffer any
+<pb facs="tcp:107438:3"/> thing to be sold in his house, upon pein of forfeiture of xl. s.</p>
+            <p n="3">3 No man shall regrate any Victual which is in the Market, or buy any Victual to ingrate in the Market, so that the Commons can or may have any part of such Victu<g ref="char:EOLhyphen"/>al, as in especial such as be known for Hucksters, or other people occu<g ref="char:EOLhyphen"/>pying their Living by such Victual as they would so ingross, under pein of forfeiture of such Victual so regrated. Provided alwaies, that any Steward for any noble Feast may buy or ingrate such Victual as is convenient for the same Feast.</p>
+            <p n="4">4 No Butter shall be sold but ac<g ref="char:EOLhyphen"/>cording to the weight for the time of the year allowed.</p>
+            <p n="5">5 No Poulters shall deceiveably occupy the Market, to sell any stale Victual, or such as be Poulters of this City, for to stand in strange
+<pb facs="tcp:107438:3"/> cloathing so to doe, under pein of xl. s. and the forfeiture of such Vi<g ref="char:EOLhyphen"/>ctual.</p>
+            <p n="6">6 No Hucksters shall stand or sit in the Market, but in the lower place and the ends of the Market, to the intent they may be perfectly known, and the Stranger-market-people have the preeminence of the Market, under pein of iij. s. iiij. d. if the Hucksters disobey the same.</p>
+            <p n="7">7 No unwholesome or stale Vi<g ref="char:EOLhyphen"/>ctual shall be sold under pein of xl. s. and forfeiture of the same Victual.</p>
+            <div type="part">
+               <head>The Statutes of the Streets of this City against Noysances.</head>
+               <p>FIrst, No man shall swéep the filth of the Stréet into the Chanell of the City in time of any
+<pb facs="tcp:107438:4"/> rain, or at any other time, under pein of vj. s. viij. d.</p>
+               <p n="2">2 No man shall cast or lay in the Stréets Dogs, Cats, or other Car<g ref="char:EOLhyphen"/>rion, or any noisome thing, con<g ref="char:EOLhyphen"/>tagious of Air: nor no Inn-holder shall lay out Dung out of his house, but if the Cart be ready to carry the same away incontinently, under pein of xl. s.</p>
+               <p n="3">3 No Brewer shall cast wilfully Dreggs or Dross of Ale or Béer into the Chanell, under pein of ij. s.</p>
+               <p n="4">4 No man shall encumber the Stréets with Timber, Stones, Carts, or such like, under pein of forfeiture of the same thing that so encumbereth the Stréets, which is twenty shillings Fine, if he remove it not at the warning of the Ser<g ref="char:EOLhyphen"/>geant of the Market.</p>
+               <p n="5">5 Every Builder of Houses
+<pb facs="tcp:107438:4"/> ought to come to the Mayor, Alder<g ref="char:EOLhyphen"/>men, and Chamberlein, for a special License for Hourd of, by him to be made in the high Stréet, and no Builder to encumber the Stréets with any manner of thing taken down for the preparing of his new Building, under pein of fourty shil<g ref="char:EOLhyphen"/>lings, except he make a Hourd of fourty shillings.</p>
+               <p n="6">6 No man shall set any Carts in the Stréets by night-time, under the pein of xii. d. and recompence to such persons as shall be hurt there<g ref="char:EOLhyphen"/>by, if any such be, xii. d.</p>
+               <p n="7">7 No Budge-man shall lead but two Horses, and he shall not let them go unled under pein of ij. s.</p>
+               <p n="8">8 No man shall ride or drive his Car or Cart a-trot in the Stréet, but patiently, under pein of ij. s.</p>
+               <p n="9">9 No man shall gallop his Horse in the Stréet, under pein of ij. s.</p>
+               <p n="10">
+                  <pb facs="tcp:107438:5"/>10 No man shall shoot in the Stréet, for Wager or otherwise, un<g ref="char:EOLhyphen"/>der like pein of ij. s.</p>
+               <p n="11">11 No man shall bowl or cast any stone in the Street, for Wager or gain, or such like, under pein of ij. s.</p>
+               <p n="12">12 No man shall dig any Hole in the Stréet for any matter, except he stop it up again, under pein of ij. s. and recompence to any person hurt thereby ij. s.</p>
+               <p n="13">13 No man shall bury any Dung or Goung within the Liberties of this City, under pein of xl. s.</p>
+               <p n="14">14 No Goung-farmer shall car<g ref="char:EOLhyphen"/>ry any Ordure till after ix of the clock in the night, under pein of thirtéen shillings four pence.</p>
+               <p n="15">15 No Goung-farmer shall spill any Ordure in the Stréet, under pein of xiii. s. iiij. d.</p>
+               <p n="16">16 No man shall bait any Bull,
+<pb facs="tcp:107438:5"/> Bear, or Horse, in the open Stréet, under pein of xx. s.</p>
+               <p n="17">17 No man shall have any Kine, Goats, Hogs, Pigs, Hens, Cocks, Capons, or Ducks, in the open Stréet, under pein of forfeiting them.</p>
+               <p n="18">18 No man shall maintain any biting Currs, or mad Dogs, in the Stréets, under pein of ij. s. and recompence to every party hurt therewith ij. s.</p>
+               <p n="19">19 No Carts that shall be shod with Spig-nail, that shall come up<g ref="char:EOLhyphen"/>on the Stréets of this City, under pein of iij. s. iiij. d.</p>
+               <p n="20">20 No Carts using daily Carri<g ref="char:EOLhyphen"/>age within this City, nor Car, shall have Whéels shod with any Iron, but bare, under pein of vi. s.</p>
+               <p n="21">21 No man shall burn any Straw, Rushes, or other thing, Linnen or Woollen, in the Stréets
+<pb facs="tcp:107438:6"/> by night or by day, under pein of iij. s. iiij. d.</p>
+               <p n="22">22 No man shall blow any Horn in the night within this City, or whistle after the hour of nine of the clock in the night, under pein of Imprisonment.</p>
+               <p n="23">23 No man shall use to go with Vizards or disguised by night, un<g ref="char:EOLhyphen"/>der like pein of Imprisonment.</p>
+               <p n="24">24 Made that Night-walkers and Eves-droppers endure like pu<g ref="char:EOLhyphen"/>nishment.</p>
+               <p n="25">25 No Hammer-man, as a Smith, a Pewterer, a Founder, and all Artificers making great sound, shall work after the hour of nine in the night, nor afore the hour of four in the morning, under pein of iij. s. iiij. d.</p>
+               <p n="26">26 No man shall cast into the Ditches of this City, or the Sew<g ref="char:EOLhyphen"/>ers of this City, without the
+<pb facs="tcp:107438:6"/> Walls, or into the Walls, Grates, or Gullets of this City, any manner of Carrion, stinking Flesh, rotten Fish, or any Rubbish, Dung, Sand, Gravel, Wéeds, Stones, or any other thing, to stop the Course of the same, under pein of cleansing thereof, at his own cost and charge, under pein of Imprisonment.</p>
+               <p n="27">27 No man shall make any Wi<g ref="char:EOLhyphen"/>drawts in any of the Town-ditches, or the Town-gullets, un<g ref="char:EOLhyphen"/>der the pein of xx. s.</p>
+               <p n="28">28 No man shall Build nigh the Walls of the City, without license of the Lord Mayor, Aldermen, and Chamberlein, under pein of throw<g ref="char:EOLhyphen"/>ing down the same; and no license may be granted, except that the Chamberlein fréely at all times have convenient and néedfull in<g ref="char:EOLhyphen"/>gress and entry, out-going and clear recourse.</p>
+               <p n="29">
+                  <pb facs="tcp:107438:7"/>29 No man shall go in the Stréets by night or by day with Bow bent, or Arrows under his girdle, nor with Sword unscabbard, under pein of Imprisonment; or with Hand-gun, having therewith Powder and Match: except it be in an usual May-game or Sight.</p>
+               <p n="30">30 No man shall after the hour of nine at the night kéep any Rule whereby any such sudden Out-cry be made in the still of the Night, as making any Affray, or beating his Wife, or Servant, or Singing or Revelling in his house, to the dis<g ref="char:EOLhyphen"/>turbance of his Neighbours, under pein of iij. s. iiij. d.</p>
+               <p n="31">31 No man shall make any Af<g ref="char:EOLhyphen"/>fray upon any Officer, which with good demeanour doth his Message by commandment of the Lord Mayor, or any Alderman, or Master Sheriffs, or Master Cham<g ref="char:EOLhyphen"/>berlein,
+<pb facs="tcp:107438:7"/> or mis-behave himself in a<g ref="char:EOLhyphen"/>ny Railing upon any Iudge of this City, or their Officers, which by commandment are sent to bring any breaker of this Law and Cu<g ref="char:EOLhyphen"/>stome to Ward, or to Distress, or such like, upon pein of Imprison<g ref="char:EOLhyphen"/>ment of forty days, and forfeiture of the double penalty, for the Offen<g ref="char:EOLhyphen"/>ces asseasing. Railing upon any Alderman or Mayor in his Office, is judgement of the Pillorie: Rail<g ref="char:EOLhyphen"/>ing upon Master Chamberlein in his Office, forty days imprison<g ref="char:EOLhyphen"/>ment: Beating, Threatning, and Railing on an Officer is Imprison<g ref="char:EOLhyphen"/>ment, after as the Trespass is.</p>
+               <p n="32">32 <hi>Memorandum,</hi> That every Of<g ref="char:EOLhyphen"/>fence found in this City, it is ac<g ref="char:EOLhyphen"/>customed that the Officer, a Frée<g ref="char:EOLhyphen"/>man finding it, which is called <hi>Pri<g ref="char:EOLhyphen"/>mus Inventor,</hi> hath half the Penal<g ref="char:EOLhyphen"/>ty by the grace of the Court.</p>
+               <p n="33">
+                  <pb facs="tcp:107438:8"/>33 Also any Frée-man may find any Offence, but he hath no power to bring the party before any Iudge of this City, without an Officer, except the party will come to his Answer by frée will.</p>
+               <p n="34">34 No man hath power to Arrest, Attach, or make Distress of any Goods forfeitable, or Offences, ex<g ref="char:EOLhyphen"/>cept a Constable or Serjeant of the Mace.</p>
+               <p n="35">35 No Butcher or his Servant shall use to drive any Oxe or Oxen a-trot in the Stréets, but peaceably: and if any Oxe happen to be let go, when he is prepared to Slaughter, the Butcher shall forfeit ij. s. be<g ref="char:EOLhyphen"/>sides recompence, if any person be hurt thereby.</p>
+               <p n="36">36 No Butcher shall scald Hogs, but in the common Scalding<g ref="char:EOLhyphen"/>house, upon pein of vj. s. viij. d.</p>
+               <p n="37">37 No Butcher shall sell any mea<g ref="char:EOLhyphen"/>sel
+<pb facs="tcp:107438:8"/> Hog, or unwholsom Flesh, under pein of x. li.</p>
+               <p n="38">38 No Butcher shall sell any old stale Victual, that is to say, above the slaughter of thrée days in the Winter, and two in the Summer, under pein of x. li.</p>
+               <p n="39">39 None unreasonable Victual for all manner of Victuals.</p>
+               <p n="40">40 No Victualler of this City shall give any rude or unfitting language, or make any clamour up<g ref="char:EOLhyphen"/>on any man or woman in the open Market, for cheapping of Victual, under pein of iij. s. iv. d.</p>
+               <p n="41">41 No Butcher shall cast the In<g ref="char:EOLhyphen"/>wards of Beasts into the Stréets, Cleaves of Beasts féet, Bones, Horns of Shéep, or other such like, under pein of ij. s.</p>
+               <p n="42">42 The Pudding-cart of the Shambles shall not go afore the hour of nine in the night, or after
+<pb facs="tcp:107438:9"/> the hour of five in the morning, un<g ref="char:EOLhyphen"/>der pein of vj. s. viij. d.</p>
+               <p n="43">43 No man shall cast any Vrine-boles or Ordure-boles into the Stréets by day or night, afore the hour of nine in the night: and also he shall not cast it out, but bring it down, and lay it in the Chanell, under the pein of iij. s. iiij. d. And if he do cast it upon any persons head, the party to have a lawfull Recompence, if he have hurt there<g ref="char:EOLhyphen"/>by.</p>
+               <p n="44">44 No man shall hurt, cut or destroy any Pipes, Sesperalls, or Wind-vents, pertaining to the Conduit, under pein of Imprison<g ref="char:EOLhyphen"/>ment, and making satisfaction, though he doth it out of the City, if he may be taken within the City.</p>
+               <p n="45">45 No man within this City may make any Quill, and break any Pipe of the Conduit, coming
+<pb facs="tcp:107438:9"/> through his house or nigh his ground, under pein of the Pillory, or take any Water privily unto his house.</p>
+               <p n="46">46 Casting any corrupt thing, appoisoning the water, is Lourgu<g ref="char:EOLhyphen"/>lary and Felony.</p>
+               <p n="47">47 Whosoever destroy or perish any Cocks of the Conduit must have Imprisonment, and make sa<g ref="char:EOLhyphen"/>tisfaction.</p>
+            </div>
+            <div type="part">
+               <head>Old Laws and Customes of this City.</head>
+               <p n="48">48 NO man shall set up Shop, or occupy as a Frée-man, afore he be sworn in the Chamber of <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> and admitted by the Chamber<g ref="char:EOLhyphen"/>lein, under pein of</p>
+               <p n="49">49 No man shall set over his Ap<g ref="char:EOLhyphen"/>prentice
+<pb facs="tcp:107438:10"/> to any other person, but by license of Master Chamberlein, &amp; there to be set over, under pein of</p>
+               <p n="50">50 No man which is a Foreign shall buy or sell within the Liber<g ref="char:EOLhyphen"/>ties of this City with another Foreign, under pein of forfeiture of the Goods so foreign bought and sold.</p>
+               <p n="51">51 No Frée-man shall be disobe<g ref="char:EOLhyphen"/>dient for to come, at Master Cham<g ref="char:EOLhyphen"/>berlein's commandment, to any Summons to him given by any Officer of the Chamber, under pein of Imprisonment.</p>
+               <p n="52">52 Master Chamberlein hath power to send a Frée-man to Ward, so that he incontinently after send to the Lord Mayor the cause why that he is punished, so that the Lord Mayor release him not, but by the Chamberlein's assent: and if he be a great Commoner, and diso<g ref="char:EOLhyphen"/>beying
+<pb facs="tcp:107438:10"/> to the Chamberlein, Master Chamberlein may referre it to a Court of Aldermen.</p>
+               <p>Master Chamberlein hath autho<g ref="char:EOLhyphen"/>rity for to send or command any Ap<g ref="char:EOLhyphen"/>prentice to the Compter for their Offences: and if their Offences be great, as in defiling their Masters houses by vitious living, or offen<g ref="char:EOLhyphen"/>ding his Master by Theft, or Dis<g ref="char:EOLhyphen"/>slander, or such like, then to com<g ref="char:EOLhyphen"/>mand him to Newgate.</p>
+               <p>Apprentice Enrolled, his Master paieth ij. s. vj.</p>
+               <p>Apprentice Set over, he that recei<g ref="char:EOLhyphen"/>veth ij. s.</p>
+               <p>Apprentice made Frée, he paieth four shillings.</p>
+               <p>Apprentice never Enrolled, and made Frée, his Master paieth xiij s. ij. d.</p>
+               <p>A man made Frée by his Father's Copy payeth xviij. d.</p>
+               <pb facs="tcp:107438:11"/>
+               <p>A Proclamation made in the time of the Mayoralty of Sir <hi>Michael Dormer</hi> Knight.</p>
+               <p>An Act of Common Council made in the Even of S. <hi>Michael, Anno Regis Henrici octavi xxxi.</hi> That no person should lay any Wares in the Stréet, or beyond the edge of their Stall, upon pein of forfeiture the first time vj. s. viij. d. the second time xiij. s. iiij. d. and the third time the Ware so laid.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:107438:11"/>
+         </div>
+      </body>
+   </text>
+</TEI>
